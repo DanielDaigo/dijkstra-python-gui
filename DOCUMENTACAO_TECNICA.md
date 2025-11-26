@@ -70,9 +70,9 @@ O projeto foi executado ao longo de 3 semanas, seguindo o planejamento das Sprin
 
 | Semana / Sprint | Período Estimado | Atividades Realizadas                                                                                                                                                                                                           | Status       |
 | :-------------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------- |
-| **Semana 01**   | 04/11 - 08/11    | - Definição da arquitetura do projeto.<br>- Implementação da classe `Grafo`.<br>- Testes unitários manuais do algoritmo de Dijkstra.<br>- Implementação do gerador de grafos aleatórios.                                        | ✅ Concluído |
-| **Semana 02**   | 11/11 - 15/11    | - Desenvolvimento da interface base em `Tkinter`.<br>- Estudo e implementação da integração `NetworkX` + `Matplotlib`.<br>- Criação do layout da janela (Frame de controle vs. Área de plotagem).                               | ✅ Concluído |
-| **Semana 03**   | 18/11 - 22/11    | - Conexão entre o botão "Calcular" e a lógica do Dijkstra.<br>- Implementação da renderização condicional (destaque de caminho).<br>- Tratamento de erros e validação de inputs.<br>- Escrita da documentação técnica e README. | ✅ Concluído |
+| **Semana 01**   | 03/11 - 07/11    | - Definição da arquitetura do projeto.<br>- Implementação da classe `Grafo`.<br>- Testes unitários manuais do algoritmo de Dijkstra.<br>- Implementação do gerador de grafos aleatórios.                                        | ✅ Concluído |
+| **Semana 02**   | 10/11 - 14/11    | - Desenvolvimento da interface base em `Tkinter`.<br>- Estudo e implementação da integração `NetworkX` + `Matplotlib`.<br>- Criação do layout da janela (Frame de controle vs. Área de plotagem).                               | ✅ Concluído |
+| **Semana 03**   | 17/11 - 21/11    | - Conexão entre o botão "Calcular" e a lógica do Dijkstra.<br>- Implementação da renderização condicional (destaque de caminho).<br>- Tratamento de erros e validação de inputs.<br>- Escrita da documentação técnica e README. | ✅ Concluído |
 
 ---
 
